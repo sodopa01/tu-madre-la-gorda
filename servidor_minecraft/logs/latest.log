@@ -202,3 +202,14 @@
 [11:29:25] [User Authenticator #1/INFO]: UUID of player akukis is 2b36bba9-4418-3ccc-9179-d1564b80bed2
 [11:29:25] [Server thread/INFO]: akukis joined the game
 [11:29:25] [Server thread/INFO]: akukis[/127.157.211.142:50713] logged in with entity id 3370 at ([ku klux klan]2661.9574227015414, 71.0, -576.81339034566)
+[11:36:25] [User Authenticator #2/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[11:36:27] [Server thread/INFO]: MrEl_0bit joined the game
+[11:36:27] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:48137] logged in with entity id 4684 at ([ku klux klan]2656.5206353934586, 70.0, -581.2492589499535)
+[11:36:28] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[11:36:28] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
+[11:36:43] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
+[11:36:43] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
+[11:36:47] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
+[11:36:47] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
+[11:36:47] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
+[11:36:47] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
