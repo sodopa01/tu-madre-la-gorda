@@ -1,192 +1,576 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1738766765790 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1739117664645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766768963 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117667816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766772154 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117671047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766775337 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117674507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766778519 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117677715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766781688 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117680906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766785338 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117684963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766788640 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117688264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766791810 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117691523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766795000 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117694758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766798175 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117698051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766801366 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117701230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766805049 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117704514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766808237 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117708055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766811412 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117711295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766814572 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117714555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766817727 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117717960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766820877 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117721280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766824274 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117724460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766827447 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117727744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766830594 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117731233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766833779 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117734518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766837606 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117739006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766840758 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117742218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766843900 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117745437 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766847077 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117748700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766850752 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117751876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766853945 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117755185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766857273 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117758367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766860472 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117761549 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766863706 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117764784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1738766866889 tunnel running, 2 tunnels registered
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117768249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-appropriate-prefix.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-back-bumper.gl.at.ply.gg:3133 => 127.0.0.1:3133 (proto: Udp, port count: 1)
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117771640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117774839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117778030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117781223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117784442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117787625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117790849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117794918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117798118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117801338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117804535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117807840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117811220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117814701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117817869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117822037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117825414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117828652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117833028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117836266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117840438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117843591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117846793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117850864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117855004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117859058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117862355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117865670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117868847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117872055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117875754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117878985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117882193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117885548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117888732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117892020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117895204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117898588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117901728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117904873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117908823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117911988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117915134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117918664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117922172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117925416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117928677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117931833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117935019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117938258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117941669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117945721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117949921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117953279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117956500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117959694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117962970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117966146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117969330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117972482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117975671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117979542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117982788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1739117986768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+id-different.gl.at.ply.gg:58932 => 127.0.0.1:58932 (proto: Tcp, port count: 1)
+review-gambling.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)

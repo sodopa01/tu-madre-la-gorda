@@ -1,416 +1,124 @@
-[11:10:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[11:10:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[11:10:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[11:10:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[11:10:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[16:20:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[16:20:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[16:20:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:20:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[16:20:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Orebfuscator (5.5.2), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), Sleeper (1.6.2), voicechat (2.5.26)
-[11:11:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:11:04] [ServerMain/INFO]: Loaded 1337 recipes
-[11:11:05] [ServerMain/INFO]: Loaded 1448 advancements
-[11:11:05] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[11:11:05] [Server thread/INFO]: Loading properties
-[11:11:05] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[11:11:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[11:11:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:11:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:11:06] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[11:11:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[11:11:06] [Server thread/INFO]: Default game type: SURVIVAL
-[11:11:06] [Server thread/INFO]: Generating keypair
-[11:11:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:11:06] [Server thread/INFO]: Using epoll channel type
-[11:11:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[11:11:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[11:11:07] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[11:11:07] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
-[11:11:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[11:11:07] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.6.2
-[11:11:07] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
-[11:11:07] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[11:11:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:11:07] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[11:11:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[11:11:08] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[11:11:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[11:11:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[11:11:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:11:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:11:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:11:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:11:09] [Server thread/INFO]: Preparing level "ku klux klan"
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[11:11:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[11:11:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:11:10] [Server thread/INFO]: Preparing spawn area: 0%
-[11:11:10] [Server thread/INFO]: Preparing spawn area: 10%
-[11:11:10] [Server thread/INFO]: Time elapsed: 610 ms
-[11:11:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:11:10] [Server thread/INFO]: Preparing spawn area: 0%
-[11:11:10] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[11:11:10] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 293.6ms
-[11:11:10] [Server thread/INFO]: Preparing spawn area: 65%
-[11:11:11] [Server thread/INFO]: Time elapsed: 865 ms
-[11:11:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:11:11] [Server thread/INFO]: Preparing spawn area: 0%
-[11:11:11] [Server thread/INFO]: Time elapsed: 106 ms
-[11:11:11] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.6.2
-[11:11:11] [Server thread/INFO]: [Sleeper] Sleeper Version 1.6.2 Has Been Enabled!
-[11:11:11] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
-[11:11:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[11:11:12] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
-[11:11:12] [Server thread/INFO]: [voicechat] Compatibility version 18
-[11:11:12] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[11:11:12] [Server thread/INFO]: [spark] Starting background profiler...
-[11:11:12] [Server thread/INFO]: Done preparing level "ku klux klan" (3.337s)
-[11:11:12] [Server thread/INFO]: Running delayed init tasks
-[11:11:12] [Server thread/INFO]: Done (14.992s)! For help, type "help"
-[11:11:12] [Server thread/INFO]: [voicechat] Loading plugins
-[11:11:12] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[11:11:12] [Server thread/INFO]: [voicechat] Initializing plugins
-[11:11:12] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[11:11:12] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[11:11:12] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'id-different.gl.at.ply.gg:58932'
-[11:11:13] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'id-different.gl.at.ply.gg', binding to wildcard IP instead
-[11:11:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at id-different.gl.at.ply.gg:58932
-[11:12:21] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[11:12:22] [Server thread/INFO]: Sodopa joined the game
-[11:12:22] [Server thread/INFO]: Sodopa[/127.198.40.59:40185] logged in with entity id 15 at ([ku klux klan]2688.5, 73.0, -594.5)
-[11:12:22] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
-[11:12:22] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
-[11:12:38] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 20
-[11:12:38] [Server thread/INFO]: [Sodopa: Gave 20 experience points to Sodopa]
-[11:12:40] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 40
-[11:12:40] [Server thread/INFO]: [Sodopa: Gave 40 experience points to Sodopa]
-[11:12:42] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 10000
-[11:12:42] [Server thread/INFO]: [Sodopa: Gave 10000 experience points to Sodopa]
-[11:12:45] [Server thread/INFO]: Sodopa issued server command: /gamemode creative
-[11:12:45] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
-[11:12:48] [Server thread/INFO]: Sodopa issued server command: /gamemode survival
-[11:12:48] [Server thread/INFO]: [Sodopa: Set own game mode to Survival Mode]
-[11:12:51] [Server thread/INFO]: Sodopa issued server command: /gamemode creative
-[11:12:51] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
-[11:12:53] [Server thread/INFO]: Sodopa issued server command: /gamemode survival
-[11:12:53] [Server thread/INFO]: [Sodopa: Set own game mode to Survival Mode]
-[11:12:55] [Server thread/INFO]: Sodopa fell from a high place
-[11:12:59] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 10000
-[11:12:59] [Server thread/INFO]: [Sodopa: Gave 10000 experience points to Sodopa]
-[11:13:04] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 1000
-[11:13:04] [Server thread/INFO]: [Sodopa: Gave 1000 experience points to Sodopa]
-[11:13:09] [Server thread/INFO]: Sodopa issued server command: /gamemode creative
-[11:13:09] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
-[11:13:16] [Server thread/INFO]: Sodopa issued server command: /gamemode survival
-[11:13:16] [Server thread/INFO]: [Sodopa: Set own game mode to Survival Mode]
-[11:13:18] [Server thread/INFO]: Sodopa fell from a high place
-[11:13:25] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:25] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:26] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:26] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:27] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:27] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:27] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:27] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:28] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:28] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:28] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:28] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:29] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:29] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:29] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:29] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:30] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:30] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:30] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:30] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:31] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:31] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:32] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:32] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:32] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:32] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:32] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:32] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:33] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:33] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:33] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:33] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:34] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:34] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:35] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:35] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:35] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:35] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:35] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:35] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:36] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:36] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:38] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:38] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:38] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:38] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:38] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:38] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:39] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:39] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:40] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:40] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:41] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:41] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:41] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:41] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:41] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:41] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:42] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:42] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:43] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:43] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:43] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 100
-[11:13:43] [Server thread/INFO]: [Sodopa: Gave 100 experience points to Sodopa]
-[11:13:46] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:46] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:47] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:47] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:48] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:48] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:48] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:48] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:49] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:49] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:49] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:49] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:50] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:50] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:50] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:50] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:51] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:51] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:13:53] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[11:13:53] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[11:15:13] [Server thread/INFO]: Sodopa issued server command: /give Sodopa minecraft:emerald 30
-[11:15:13] [Server thread/INFO]: [Sodopa: Gave 30 [Emerald] to Sodopa]
-[11:21:13] [Server thread/INFO]: A player is required to run this command here
-[11:29:25] [User Authenticator #1/INFO]: UUID of player akukis is 2b36bba9-4418-3ccc-9179-d1564b80bed2
-[11:29:25] [Server thread/INFO]: akukis joined the game
-[11:29:25] [Server thread/INFO]: akukis[/127.157.211.142:50713] logged in with entity id 3370 at ([ku klux klan]2661.9574227015414, 71.0, -576.81339034566)
-[11:36:25] [User Authenticator #2/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[11:36:27] [Server thread/INFO]: MrEl_0bit joined the game
-[11:36:27] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:48137] logged in with entity id 4684 at ([ku klux klan]2656.5206353934586, 70.0, -581.2492589499535)
-[11:36:28] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
-[11:36:28] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
-[11:36:43] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
-[11:36:43] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
-[11:36:47] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
-[11:36:47] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
-[11:36:47] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
-[11:36:47] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
-[11:44:26] [Server thread/INFO]: MrEl_0bit has made the advancement [What a Deal!]
-[11:57:00] [Server thread/INFO]: Sodopa issued server command: /give Sodopa minecraft:water_bucket
-[11:57:00] [Server thread/INFO]: [Sodopa: Gave 1 [Water Bucket] to Sodopa]
-[12:11:23] [Server thread/INFO]: MrEl_0bit has made the advancement [Best Friends Forever]
-[12:41:12] [Server thread/INFO]: MrEl_0bit has made the advancement [The Parrots and the Bats]
-[12:45:40] [User Authenticator #3/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
-[12:45:40] [Server thread/INFO]: Teo_09 joined the game
-[12:45:40] [Server thread/INFO]: Teo_09[/127.205.172.238:41073] logged in with entity id 20835 at ([ku klux klan]2914.3060167144495, 90.0, -419.31269708997047)
-[12:50:09] [User Authenticator #4/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
-[12:50:10] [Server thread/INFO]: Mondongo joined the game
-[12:50:10] [Server thread/INFO]: Mondongo[/127.200.95.197:35825] logged in with entity id 21920 at ([ku klux klan]2668.300000011921, 70.0, -593.3108932677808)
-[12:50:40] [Server thread/INFO]: Named entity TraderLlama['Julia du pinet'/512, uuid='293f746a-ce1e-498e-8d33-eab940995042', l='ServerLevel[ku klux klan]', x=2912.36, y=89.00, z=-419.81, cpos=[182, -27], tl=584890, v=true] died: Julia du pinet was slain by Teo_09
-[12:52:20] [Server thread/INFO]: Villager Villager['Librarian'/73, uuid='35bd12b5-27de-41ce-985c-e3622c0c2d15', l='ServerLevel[ku klux klan]', x=2681.32, y=70.00, z=-592.32, cpos=[167, -38], tl=198291, v=true] died, message: 'Librarian was slain by MrEl_0bit'
-[13:20:23] [Server thread/INFO]: Villager Villager['Fletcher'/1769, uuid='6ada6f60-29a6-4ff4-92c6-88f8a6e11591', l='ServerLevel[ku klux klan]', x=2660.89, y=70.00, z=-575.89, cpos=[166, -36], tl=144482, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:20:53] [Server thread/INFO]: Villager Villager['Fletcher'/74, uuid='88617532-fca5-4e8b-a444-c1a6d2c3ffd2', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=185268, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:21:06] [Server thread/INFO]: Villager Villager['Villager'/31400, uuid='f65fade8-d64e-4f43-968a-edb96a3c9dee', l='ServerLevel[ku klux klan]', x=2628.61, y=70.00, z=-605.49, cpos=[164, -38], tl=5321, v=true] died, message: 'Villager was slain by akukis'
-[13:21:25] [Server thread/INFO]: Villager Villager['Fletcher'/21487, uuid='9979c00f-bd15-43e2-b9b5-b01ceb63ab2a', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=39864, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:21:32] [Server thread/INFO]: Villager Villager['Villager'/27928, uuid='688632b8-d7f3-4f48-a531-dc61ada472f8', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=17064, v=true] died, message: 'Villager was slain by Sodopa'
-[13:21:35] [Server thread/INFO]: akukis has made the advancement [A Seedy Place]
-[13:22:16] [Server thread/INFO]: Villager Villager['Fletcher'/68, uuid='ae26bb75-651d-4538-a9e7-6e36822ef02e', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=350111, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:22:35] [Server thread/INFO]: Villager Villager['Fletcher'/17483, uuid='ba88e5bc-b385-4106-8250-890119bb14d4', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=66917, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:23:13] [Server thread/INFO]: Villager Villager['Fletcher'/70, uuid='5a0c9798-f12d-409b-a1b7-8f29ce0dd9a2', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=210290, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:24:52] [Server thread/INFO]: Villager Villager['Fletcher'/71, uuid='0309be8d-b80d-4467-8623-c43f4ed910d1', l='ServerLevel[ku klux klan]', x=2659.38, y=70.06, z=-588.50, cpos=[166, -37], tl=278329, v=true] died, message: 'Fletcher was slain by Sodopa'
-[13:27:17] [Server thread/INFO]: Sodopa issued server command: /experience set Sodopa 70
-[13:27:21] [Server thread/INFO]: Sodopa issued server command: /experience set Sodopa 200
-[13:27:24] [Server thread/INFO]: Sodopa issued server command: /experience set Sodopa 2000
-[13:27:33] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:27:33] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:27:35] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:27:35] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:27:35] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:27:35] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:27:54] [Server thread/INFO]: akukis has made the advancement [The Parrots and the Bats]
-[13:28:38] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:28:38] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:28:39] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:28:39] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:28:39] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:28:39] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:31:50] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:31:50] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:31:50] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:31:50] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:31:50] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:31:50] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:33:19] [Server thread/INFO]: Sodopa issued server command: /experience add Sodopa 200
-[13:33:19] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
-[13:37:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Sodopa> tu
-[13:37:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Sodopa> raul
-[13:44:48] [Server thread/INFO]: Sodopa issued server command: /enchant Sodopa minecraft:silk_touch
-[13:44:48] [Server thread/INFO]: [Sodopa: Applied enchantment Silk Touch to Sodopa's item]
-[13:44:52] [Server thread/INFO]: Sodopa issued server command: /enchant Sodopa minecraft:unbreaking 3
-[13:44:52] [Server thread/INFO]: [Sodopa: Applied enchantment Unbreaking III to Sodopa's item]
-[13:54:14] [Server thread/INFO]: Sodopa issued server command: /msg akukis te has pasado
-[13:54:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Sodopa> pillale 3
-[13:56:08] [Server thread/INFO]: Sodopa issued server command: /r akukis quema la piedra
-[13:56:16] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:06] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:07] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:07] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:08] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:08] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:08] [Server thread/INFO]: Sodopa issued server command: /msg akukis pon a quemar la piedra
-[13:57:34] [Server thread/INFO]: Sodopa issued server command: /msg akukis para responder pon /msg Sodopa (mensaje)
-[13:57:58] [Server thread/INFO]: akukis issued server command: /msg Sodopa lo estoy haciendo
-[13:58:06] [Server thread/INFO]: MrEl_0bit has made the advancement [A Seedy Place]
-[14:16:08] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit ve con akukis a alisar la montaña
-[14:16:10] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit ve con akukis a alisar la montaña
-[14:16:10] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit ve con akukis a alisar la montaña
-[14:16:11] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit ve con akukis a alisar la montaña
-[14:16:11] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit ve con akukis a alisar la montaña
-[14:16:22] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa no tengo pala
-[14:16:37] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit hazte una
-[14:16:48] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa hazmela tu por fa
-[14:27:41] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa yo tengo un texture pack para iluminar
-[14:29:41] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa no me queda tierra
-[14:35:34] [Server thread/INFO]: Teo_09 lost connection: Disconnected
-[14:35:34] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
-[14:35:34] [Server thread/INFO]: Teo_09 left the game
-[14:41:58] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa dejame tu pala
-[14:42:23] [Server thread/INFO]: MrEl_0bit issued server command: /msg Sodopa dejame tu pala
-[14:49:47] [Server thread/INFO]: akukis was shot by Skeleton
-[14:50:39] [Server thread/INFO]: Villager Villager['Nitwit'/59, uuid='60e09eab-530b-49f2-91b2-ba4f1864f866', l='ServerLevel[ku klux klan]', x=2637.09, y=75.94, z=-598.30, cpos=[164, -38], tl=807669, v=true] died, message: 'Nitwit was slain by Zombie Villager'
-[14:50:42] [Server thread/INFO]: Villager Villager['Farmer'/60, uuid='d465f3c1-7134-460c-85c6-c8cccc0c6c71', l='ServerLevel[ku klux klan]', x=2637.26, y=75.94, z=-598.30, cpos=[164, -38], tl=811177, v=true] died, message: 'Farmer was slain by Zombie Villager'
-[15:03:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Sodopa> victor
-[15:03:42] [Async Chat Thread - #14/INFO]: [Not Secure] <MrEl_0bit> que
-[15:03:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Sodopa> raid?
-[15:05:54] [Server thread/INFO]: Sodopa has made the advancement [Voluntary Exile]
-[15:07:05] [Server thread/INFO]: Sodopa issued server command: /msg te lo puedo dar si nos quedamos calladitos
-[15:07:11] [Server thread/INFO]: Sodopa issued server command: /msg akukis lo puedo dar si nos quedamos calladitos
-[15:07:23] [Server thread/INFO]: Sodopa issued server command: /tp akukis Sodopa
-[15:07:23] [Server thread/INFO]: [Sodopa: Teleported akukis to Sodopa]
-[15:07:33] [Server thread/INFO]: Sodopa issued server command: /msg akukis espera
-[15:07:46] [Server thread/INFO]: Sodopa issued server command: /gamemode creative
-[15:07:46] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
-[15:08:26] [Server thread/INFO]: Sodopa issued server command: /gamemode survival
-[15:08:26] [Server thread/INFO]: [Sodopa: Set own game mode to Survival Mode]
-[15:26:46] [Server thread/INFO]: Sodopa issued server command: /teammsg d
-[15:26:53] [Server thread/INFO]: Sodopa issued server command: /team add sex
-[15:26:53] [Server thread/INFO]: [Sodopa: Created team [sex]]
-[15:27:04] [Server thread/INFO]: Sodopa issued server command: /team join sex
-[15:27:04] [Server thread/INFO]: [Sodopa: Added Sodopa to team [sex]]
-[15:27:11] [Server thread/INFO]: Sodopa issued server command: /team modify sex
-[15:27:27] [Server thread/INFO]: Sodopa issued server command: /team empty
-[15:27:28] [Server thread/INFO]: Sodopa issued server command: /team empty sex
-[15:27:28] [Server thread/INFO]: [Sodopa: Removed 1 member(s) from team [sex]]
-[15:27:38] [Server thread/INFO]: Sodopa issued server command: /team join sex Sodopa
-[15:27:38] [Server thread/INFO]: [Sodopa: Added Sodopa to team [sex]]
-[15:27:43] [Server thread/INFO]: Sodopa issued server command: /team join sex akukis
-[15:27:43] [Server thread/INFO]: [Sodopa: Added akukis to team [sex]]
-[15:27:53] [Server thread/INFO]: Sodopa issued server command: /teammsg funciona
-[15:28:07] [Server thread/INFO]: Sodopa issued server command: /teammsg es el susurro del team
-[15:28:17] [Server thread/INFO]: Sodopa issued server command: /teammsg ./teammsg
-[15:29:45] [Server thread/INFO]: akukis lost connection: Disconnected
-[15:29:45] [Server thread/INFO]: [voicechat] Disconnecting client akukis
-[15:29:45] [Server thread/INFO]: akukis left the game
-[15:36:57] [Server thread/INFO]: Sodopa issued server command: /difficulty hard
-[15:38:28] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit eres tu?
-[15:40:48] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:slow_falling 120 2
-[15:40:48] [Server thread/INFO]: [Sodopa: Applied effect Slow Falling to MrEl_0bit]
-[15:40:59] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:jump_boost 2 99
-[15:40:59] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to MrEl_0bit]
-[15:43:02] [Server thread/INFO]: Sodopa issued server command: /spectate MrEl_0bit
-[15:50:25] [Server thread/INFO]: Mondongo was slain by Sodopa
-[15:50:30] [Server thread/INFO]: Mondongo lost connection: Disconnected
-[15:50:30] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
-[15:50:30] [Server thread/INFO]: Mondongo left the game
-[15:57:35] [User Authenticator #5/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
-[15:57:36] [Server thread/INFO]: Teo_09 joined the game
-[15:57:36] [Server thread/INFO]: Teo_09[/127.205.172.238:53287] logged in with entity id 77231 at ([ku klux klan]2939.7582916033703, 75.0, -415.65219652637734)
-[15:58:18] [Server thread/INFO]: Teo_09 was slain by Iron Golem
-[16:04:02] [Server thread/INFO]: Sodopa lost connection: Disconnected
-[16:04:02] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[16:04:02] [Server thread/INFO]: Sodopa left the game
-[16:11:58] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
-[16:11:58] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
-[16:11:58] [Server thread/INFO]: MrEl_0bit left the game
-[16:12:16] [Server thread/INFO]: Teo_09 lost connection: Disconnected
-[16:12:16] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
-[16:12:16] [Server thread/INFO]: Teo_09 left the game
-[16:12:42] [User Authenticator #6/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
-[16:12:47] [User Authenticator #6/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[16:12:50] [Server thread/INFO]: MrEl_0bit joined the game
-[16:12:50] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:50785] logged in with entity id 82517 at ([ku klux klan]2496.1060664979304, 70.0, -636.3014741270329)
-[16:12:52] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
-[16:12:52] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
-[16:12:55] [Server thread/INFO]: Teo_09 joined the game
-[16:12:55] [Server thread/INFO]: Teo_09[/127.205.172.238:39275] logged in with entity id 82516 at ([ku klux klan]2935.191518663295, 75.0, -415.61143176040423)
-[16:12:56] [Server thread/INFO]: Teo_09 lost connection: Disconnected
-[16:12:56] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
-[16:12:56] [Server thread/INFO]: Teo_09 left the game
-[16:13:06] [User Authenticator #6/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[16:13:07] [Server thread/INFO]: Sodopa joined the game
-[16:13:07] [Server thread/INFO]: Sodopa[/127.198.40.59:51359] logged in with entity id 83069 at ([ku klux klan]2662.5, 70.0, -578.5)
-[16:13:07] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
-[16:13:07] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
-[16:13:21] [Server thread/WARN]: Sodopa was kicked for floating too long!
-[16:13:21] [Server thread/INFO]: Sodopa lost connection: Flying is not enabled on this server
-[16:13:21] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[16:13:21] [Server thread/INFO]: Sodopa left the game
-[16:13:41] [Server thread/INFO]: Stopping the server
-[16:13:41] [Server thread/INFO]: Stopping server
-[16:13:41] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[16:13:41] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
-[16:13:41] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.6.2
-[16:13:41] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
-[16:13:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
-[16:13:41] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[16:13:41] [Server thread/INFO]: Saving players
-[16:13:41] [Server thread/INFO]: MrEl_0bit lost connection: Server closed
-[16:13:41] [Server thread/INFO]: MrEl_0bit left the game
-[16:13:41] [Server thread/INFO]: Saving worlds
-[16:13:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan]'/minecraft:overworld
-[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan'
-[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan'
-[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 1815 block chunks, 1815 entity chunks, 1 poi chunks in world 'ku klux klan' in 3.03s
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan'
-[16:13:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan_nether]'/minecraft:the_nether
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan_nether'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan_nether'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan_nether'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 27 block chunks, 16 entity chunks, 0 poi chunks in world 'ku klux klan_nether' in 0.02s
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan_nether'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan_nether'
-[16:13:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan_the_end]'/minecraft:the_end
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan_the_end'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan_the_end'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan_the_end'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'ku klux klan_the_end' in 0.00s
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan_the_end'
-[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan_the_end'
-[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (ku klux klan): All chunks are saved
-[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:13:44] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[16:13:44] [Server thread/INFO]: All I/O tasks to complete
-[16:13:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[16:13:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[16:20:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:20:15] [ServerMain/INFO]: Loaded 1337 recipes
+[16:20:15] [ServerMain/INFO]: Loaded 1448 advancements
+[16:20:15] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[16:20:15] [Server thread/INFO]: Loading properties
+[16:20:15] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[16:20:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:20:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:20:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:20:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:20:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:20:17] [Server thread/INFO]: Default game type: SURVIVAL
+[16:20:17] [Server thread/INFO]: Generating keypair
+[16:20:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:20:17] [Server thread/INFO]: Using epoll channel type
+[16:20:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:20:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:20:18] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[16:20:18] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[16:20:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[16:20:18] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.6.2
+[16:20:18] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
+[16:20:18] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[16:20:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:20:18] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[16:20:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[16:20:19] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[16:20:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[16:20:20] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:20:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:20:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:20:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:20:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:20:20] [Server thread/INFO]: Preparing level "ku klux klan"
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:20:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:20:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:20:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:21] [Server thread/INFO]: Preparing spawn area: 2%
+[16:20:21] [Server thread/INFO]: Time elapsed: 719 ms
+[16:20:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:20:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:21] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[16:20:22] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 295.4ms
+[16:20:22] [Server thread/INFO]: Preparing spawn area: 63%
+[16:20:22] [Server thread/INFO]: Time elapsed: 823 ms
+[16:20:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:20:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:22] [Server thread/INFO]: Time elapsed: 103 ms
+[16:20:22] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.6.2
+[16:20:22] [Server thread/INFO]: [Sleeper] Sleeper Version 1.6.2 Has Been Enabled!
+[16:20:22] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
+[16:20:23] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[16:20:23] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
+[16:20:23] [Server thread/INFO]: [voicechat] Compatibility version 18
+[16:20:23] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[16:20:23] [Server thread/INFO]: [spark] Starting background profiler...
+[16:20:24] [Server thread/INFO]: Done preparing level "ku klux klan" (3.560s)
+[16:20:24] [Server thread/INFO]: Running delayed init tasks
+[16:20:24] [Server thread/INFO]: Done (16.255s)! For help, type "help"
+[16:20:24] [Server thread/INFO]: [voicechat] Loading plugins
+[16:20:24] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:20:24] [Server thread/INFO]: [voicechat] Initializing plugins
+[16:20:24] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:20:24] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:20:24] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'id-different.gl.at.ply.gg:58932'
+[16:20:34] [VoiceChatServerThread/ERROR]: [voicechat] Failed to parse bind IP address 'id-different.gl.at.ply.gg'
+java.net.UnknownHostException: id-different.gl.at.ply.gg: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:?]
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52) ~[?:?]
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1211) ~[?:?]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1828) ~[?:?]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1139) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1568) ~[?:?]
+	at voicechat-bukkit-2.5.26.jar/de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.open(VoicechatSocketImpl.java:23) ~[voicechat-bukkit-2.5.26.jar:?]
+	at voicechat-bukkit-2.5.26.jar/de.maxhenkel.voicechat.voice.server.Server.run(Server.java:78) ~[voicechat-bukkit-2.5.26.jar:?]
+[16:20:34] [VoiceChatServerThread/INFO]: [voicechat] Binding to wildcard IP address
+[16:20:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at id-different.gl.at.ply.gg:58932
+[16:21:09] [User Authenticator #0/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[16:21:11] [Server thread/INFO]: Teo_09 joined the game
+[16:21:11] [Server thread/INFO]: Teo_09[/127.205.172.238:45947] logged in with entity id 15 at ([ku klux klan]2946.743896603168, 75.0, -419.01302093652555)
+[16:21:19] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:21:19] [Server thread/INFO]: Sodopa joined the game
+[16:21:19] [Server thread/INFO]: Sodopa[/127.198.40.59:56395] logged in with entity id 320 at ([ku klux klan]2600.6491849469085, 70.0, -626.1210714937675)
+[16:21:19] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[16:21:19] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[16:21:41] [User Authenticator #0/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:21:42] [Server thread/INFO]: MrEl_0bit joined the game
+[16:21:42] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:54385] logged in with entity id 939 at ([ku klux klan]2472.8399525617397, 72.0, -652.9785101551555)
+[16:21:42] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[16:21:42] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
+[16:22:38] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
+[16:22:38] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
+[16:22:38] [Server thread/INFO]: MrEl_0bit left the game
+[16:22:39] [User Authenticator #0/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[16:22:39] [Server thread/INFO]: Teo_09 lost connection: You logged in from another location
+[16:22:39] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
+[16:22:39] [Server thread/INFO]: Teo_09 left the game
+[16:22:39] [Server thread/INFO]: Teo_09 joined the game
+[16:22:39] [Server thread/INFO]: Teo_09[/127.205.172.238:33333] logged in with entity id 1305 at ([ku klux klan]2906.713532040713, 89.23625203141623, -418.23750001192093)
+[16:22:48] [User Authenticator #0/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:22:48] [Server thread/INFO]: MrEl_0bit joined the game
+[16:22:48] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:43725] logged in with entity id 1422 at ([ku klux klan]2469.49644553846, 70.0, -652.4803082118552)
+[16:22:48] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[16:22:48] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
