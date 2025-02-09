@@ -329,3 +329,10 @@
 [15:29:45] [Server thread/INFO]: akukis lost connection: Disconnected
 [15:29:45] [Server thread/INFO]: [voicechat] Disconnecting client akukis
 [15:29:45] [Server thread/INFO]: akukis left the game
+[15:36:57] [Server thread/INFO]: Sodopa issued server command: /difficulty hard
+[15:38:28] [Server thread/INFO]: Sodopa issued server command: /msg MrEl_0bit eres tu?
+[15:40:48] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:slow_falling 120 2
+[15:40:48] [Server thread/INFO]: [Sodopa: Applied effect Slow Falling to MrEl_0bit]
+[15:40:59] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:jump_boost 2 99
+[15:40:59] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to MrEl_0bit]
+[15:43:02] [Server thread/INFO]: Sodopa issued server command: /spectate MrEl_0bit
