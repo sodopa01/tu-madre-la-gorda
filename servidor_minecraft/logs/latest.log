@@ -340,3 +340,10 @@
 [15:50:30] [Server thread/INFO]: Mondongo lost connection: Disconnected
 [15:50:30] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
 [15:50:30] [Server thread/INFO]: Mondongo left the game
+[15:57:35] [User Authenticator #5/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[15:57:36] [Server thread/INFO]: Teo_09 joined the game
+[15:57:36] [Server thread/INFO]: Teo_09[/127.205.172.238:53287] logged in with entity id 77231 at ([ku klux klan]2939.7582916033703, 75.0, -415.65219652637734)
+[15:58:18] [Server thread/INFO]: Teo_09 was slain by Iron Golem
+[16:04:02] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[16:04:02] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[16:04:02] [Server thread/INFO]: Sodopa left the game
