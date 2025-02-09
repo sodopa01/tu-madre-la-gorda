@@ -336,3 +336,7 @@
 [15:40:59] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:jump_boost 2 99
 [15:40:59] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to MrEl_0bit]
 [15:43:02] [Server thread/INFO]: Sodopa issued server command: /spectate MrEl_0bit
+[15:50:25] [Server thread/INFO]: Mondongo was slain by Sodopa
+[15:50:30] [Server thread/INFO]: Mondongo lost connection: Disconnected
+[15:50:30] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
+[15:50:30] [Server thread/INFO]: Mondongo left the game
