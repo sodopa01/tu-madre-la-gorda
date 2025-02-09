@@ -347,3 +347,70 @@
 [16:04:02] [Server thread/INFO]: Sodopa lost connection: Disconnected
 [16:04:02] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
 [16:04:02] [Server thread/INFO]: Sodopa left the game
+[16:11:58] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
+[16:11:58] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
+[16:11:58] [Server thread/INFO]: MrEl_0bit left the game
+[16:12:16] [Server thread/INFO]: Teo_09 lost connection: Disconnected
+[16:12:16] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
+[16:12:16] [Server thread/INFO]: Teo_09 left the game
+[16:12:42] [User Authenticator #6/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[16:12:47] [User Authenticator #6/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:12:50] [Server thread/INFO]: MrEl_0bit joined the game
+[16:12:50] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:50785] logged in with entity id 82517 at ([ku klux klan]2496.1060664979304, 70.0, -636.3014741270329)
+[16:12:52] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[16:12:52] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
+[16:12:55] [Server thread/INFO]: Teo_09 joined the game
+[16:12:55] [Server thread/INFO]: Teo_09[/127.205.172.238:39275] logged in with entity id 82516 at ([ku klux klan]2935.191518663295, 75.0, -415.61143176040423)
+[16:12:56] [Server thread/INFO]: Teo_09 lost connection: Disconnected
+[16:12:56] [Server thread/INFO]: [voicechat] Disconnecting client Teo_09
+[16:12:56] [Server thread/INFO]: Teo_09 left the game
+[16:13:06] [User Authenticator #6/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:13:07] [Server thread/INFO]: Sodopa joined the game
+[16:13:07] [Server thread/INFO]: Sodopa[/127.198.40.59:51359] logged in with entity id 83069 at ([ku klux klan]2662.5, 70.0, -578.5)
+[16:13:07] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[16:13:07] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[16:13:21] [Server thread/WARN]: Sodopa was kicked for floating too long!
+[16:13:21] [Server thread/INFO]: Sodopa lost connection: Flying is not enabled on this server
+[16:13:21] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[16:13:21] [Server thread/INFO]: Sodopa left the game
+[16:13:41] [Server thread/INFO]: Stopping the server
+[16:13:41] [Server thread/INFO]: Stopping server
+[16:13:41] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[16:13:41] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
+[16:13:41] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.6.2
+[16:13:41] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
+[16:13:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[16:13:41] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[16:13:41] [Server thread/INFO]: Saving players
+[16:13:41] [Server thread/INFO]: MrEl_0bit lost connection: Server closed
+[16:13:41] [Server thread/INFO]: MrEl_0bit left the game
+[16:13:41] [Server thread/INFO]: Saving worlds
+[16:13:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan]'/minecraft:overworld
+[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan'
+[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan'
+[16:13:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 1815 block chunks, 1815 entity chunks, 1 poi chunks in world 'ku klux klan' in 3.03s
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan'
+[16:13:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan_nether]'/minecraft:the_nether
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan_nether'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan_nether'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan_nether'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 27 block chunks, 16 entity chunks, 0 poi chunks in world 'ku klux klan_nether' in 0.02s
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan_nether'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan_nether'
+[16:13:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ku klux klan_the_end]'/minecraft:the_end
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ku klux klan_the_end'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ku klux klan_the_end'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ku klux klan_the_end'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'ku klux klan_the_end' in 0.00s
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ku klux klan_the_end'
+[16:13:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ku klux klan_the_end'
+[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (ku klux klan): All chunks are saved
+[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:13:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:13:44] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[16:13:44] [Server thread/INFO]: All I/O tasks to complete
+[16:13:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:13:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
