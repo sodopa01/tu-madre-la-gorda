@@ -214,3 +214,5 @@
 [11:36:47] [Server thread/INFO]: Sodopa issued server command: /effect give MrEl_0bit minecraft:speed 2 99
 [11:36:47] [Server thread/INFO]: [Sodopa: Applied effect Speed to MrEl_0bit]
 [11:44:26] [Server thread/INFO]: MrEl_0bit has made the advancement [What a Deal!]
+[11:57:00] [Server thread/INFO]: Sodopa issued server command: /give Sodopa minecraft:water_bucket
+[11:57:00] [Server thread/INFO]: [Sodopa: Gave 1 [Water Bucket] to Sodopa]
