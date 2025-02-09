@@ -310,3 +310,22 @@
 [15:07:46] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
 [15:08:26] [Server thread/INFO]: Sodopa issued server command: /gamemode survival
 [15:08:26] [Server thread/INFO]: [Sodopa: Set own game mode to Survival Mode]
+[15:26:46] [Server thread/INFO]: Sodopa issued server command: /teammsg d
+[15:26:53] [Server thread/INFO]: Sodopa issued server command: /team add sex
+[15:26:53] [Server thread/INFO]: [Sodopa: Created team [sex]]
+[15:27:04] [Server thread/INFO]: Sodopa issued server command: /team join sex
+[15:27:04] [Server thread/INFO]: [Sodopa: Added Sodopa to team [sex]]
+[15:27:11] [Server thread/INFO]: Sodopa issued server command: /team modify sex
+[15:27:27] [Server thread/INFO]: Sodopa issued server command: /team empty
+[15:27:28] [Server thread/INFO]: Sodopa issued server command: /team empty sex
+[15:27:28] [Server thread/INFO]: [Sodopa: Removed 1 member(s) from team [sex]]
+[15:27:38] [Server thread/INFO]: Sodopa issued server command: /team join sex Sodopa
+[15:27:38] [Server thread/INFO]: [Sodopa: Added Sodopa to team [sex]]
+[15:27:43] [Server thread/INFO]: Sodopa issued server command: /team join sex akukis
+[15:27:43] [Server thread/INFO]: [Sodopa: Added akukis to team [sex]]
+[15:27:53] [Server thread/INFO]: Sodopa issued server command: /teammsg funciona
+[15:28:07] [Server thread/INFO]: Sodopa issued server command: /teammsg es el susurro del team
+[15:28:17] [Server thread/INFO]: Sodopa issued server command: /teammsg ./teammsg
+[15:29:45] [Server thread/INFO]: akukis lost connection: Disconnected
+[15:29:45] [Server thread/INFO]: [voicechat] Disconnecting client akukis
+[15:29:45] [Server thread/INFO]: akukis left the game
