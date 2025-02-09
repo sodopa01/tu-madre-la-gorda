@@ -262,3 +262,9 @@
 [13:33:19] [Server thread/INFO]: [Sodopa: Gave 200 experience points to Sodopa]
 [13:37:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Sodopa> tu
 [13:37:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Sodopa> raul
+[13:44:48] [Server thread/INFO]: Sodopa issued server command: /enchant Sodopa minecraft:silk_touch
+[13:44:48] [Server thread/INFO]: [Sodopa: Applied enchantment Silk Touch to Sodopa's item]
+[13:44:52] [Server thread/INFO]: Sodopa issued server command: /enchant Sodopa minecraft:unbreaking 3
+[13:44:52] [Server thread/INFO]: [Sodopa: Applied enchantment Unbreaking III to Sodopa's item]
+[13:54:14] [Server thread/INFO]: Sodopa issued server command: /msg akukis te has pasado
+[13:54:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Sodopa> pillale 3
